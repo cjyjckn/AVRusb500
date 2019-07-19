@@ -1,0 +1,67 @@
+\t (00:00:18) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:00:18)     Journal start - Thu Jul 18 14:55:41 2019
+\t (00:00:18)         Host=USER-PC User=user Pid=4988 CPUs=4
+\t (00:00:18) CmdLine= allegro.exe -p .
+\t (00:00:18) 
+\d (00:00:18) Design opened: C:/USERS/USER/DESKTOP/WORK/AVRUSB500/allegro/AVRUSB500.brd
+\i (00:00:18) generaledit 
+\i (00:00:19) pick grid 17600.00 11825.00
+\t (00:00:19) last pick:  17600.00 11800.00
+\i (00:00:19) zoom out 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom out 17462.50 12100.00
+\i (00:00:20) trapsize 17188
+\i (00:00:20) zoom out 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom out 17565.63 11893.75
+\i (00:00:20) trapsize 17188
+\i (00:00:20) zoom out 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom out 17600.00 11893.75
+\i (00:00:20) trapsize 17188
+\i (00:00:20) zoom out 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom out 17600.00 11893.75
+\i (00:00:20) trapsize 17188
+\i (00:00:20) zoom out 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom out 18287.50 11515.63
+\i (00:00:20) trapsize 17188
+\i (00:00:20) zoom out 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom out 18975.00 11137.50
+\i (00:00:20) trapsize 17188
+\i (00:00:20) zoom out 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom out 18975.00 11137.50
+\i (00:00:20) trapsize 17188
+\i (00:00:20) zoom out 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom out 18803.13 11137.50
+\i (00:00:20) trapsize 17188
+\i (00:00:20) zoom out 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom out 18803.13 11137.50
+\i (00:00:20) trapsize 17188
+\i (00:00:21) zoom out 1 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) zoom out 18837.50 11034.38
+\i (00:00:21) trapsize 17188
+\i (00:00:21) zoom out 1 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) zoom out 18837.50 11034.38
+\i (00:00:21) trapsize 17188
+\i (00:00:21) zoom out 1 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) zoom out 18837.50 11034.38
+\i (00:00:21) trapsize 17188
+\i (00:00:21) zoom out 1 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) zoom out 18837.50 11034.38
+\i (00:00:21) trapsize 17188
+\i (00:00:22) open 
+\i (00:00:33) fillin "C:\Users\user\Desktop\work\avrusb500\micro_usb.brd"
+\i (00:00:33) cd "C:\Users\user\Desktop\work\avrusb500"
+\t (00:00:33) Opening existing design...
+\i (00:00:33) trapsize 820
+\t (00:00:33)     Journal end - Thu Jul 18 14:55:57 2019

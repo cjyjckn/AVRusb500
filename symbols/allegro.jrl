@@ -1,0 +1,192 @@
+\t (00:00:27) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:00:27)     Journal start - Thu Jul 18 13:34:20 2019
+\t (00:00:27)         Host=USER-PC User=user Pid=7076 CPUs=4
+\t (00:00:27) CmdLine= allegro.exe -p .
+\t (00:00:27) 
+\d (00:00:27) Design opened: C:/Users/user/Desktop/work/avrusb500/symbols/micro_usb.dra
+\i (00:00:27) generaledit 
+\i (00:00:28) zoom out 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom out -3.232 3.546
+\i (00:00:28) trapsize 311
+\i (00:00:28) zoom out 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom out -5.965 4.230
+\i (00:00:28) trapsize 621
+\i (00:00:29) grid toggle 
+\t (00:00:29) Grids are drawn 0.800, 0.800 apart for enhanced viewability.
+\i (00:00:29) generaledit 
+\i (00:00:30) zoom in 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom in 12.668 12.057
+\t (00:00:30) Grids are drawn 0.400, 0.400 apart for enhanced viewability.
+\i (00:00:30) trapsize 311
+\i (00:00:31) zoom out 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom out 7.327 10.877
+\t (00:00:31) Grids are drawn 0.800, 0.800 apart for enhanced viewability.
+\i (00:00:31) trapsize 621
+\i (00:00:31) roam start
+\i (00:00:31) roam x -224
+\i (00:00:32) roam end
+\i (00:00:32) zoom in 1 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) zoom in 3.720 2.058
+\t (00:00:32) Grids are drawn 0.400, 0.400 apart for enhanced viewability.
+\i (00:00:32) trapsize 311
+\i (00:00:33) zoom in 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom in 8.255 2.307
+\t (00:00:33) Grids are drawn 0.200, 0.200 apart for enhanced viewability.
+\i (00:00:33) trapsize 155
+\i (00:00:34) zoom in 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom in 0.274 2.089
+\i (00:00:34) trapsize 78
+\i (00:00:34) zoom in 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom in -0.269 1.235
+\i (00:00:34) trapsize 39
+\i (00:00:35) zoom out 1 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) zoom out 0.049 2.190
+\i (00:00:35) trapsize 78
+\i (00:00:37) roam start
+\i (00:00:37) roam y -304
+\i (00:00:37) roam y -16
+\i (00:00:37) roam x 16
+\i (00:00:37) roam y 112
+\i (00:00:38) roam y 16
+\i (00:00:38) roam y 48
+\i (00:00:38) roam x -16
+\i (00:00:39) roam x -16
+\i (00:00:39) roam y -16
+\i (00:00:39) roam x -32
+\i (00:00:40) roam x -16
+\i (00:00:40) roam end
+\i (00:00:40) pick grid 3.221 6.128
+\t (00:00:40) last pick:  3.200 6.100
+\i (00:00:47) shape add rect 
+\i (00:00:49) zoom in 1 
+\i (00:00:49) setwindow pcb
+\i (00:00:49) zoom in -5.800 4.699
+\i (00:00:49) trapsize 39
+\i (00:00:53) pick grid -5.792 4.715
+\t (00:00:53) last pick:  -5.800 4.700
+\i (00:00:57) roam start
+\i (00:00:57) roam x 192
+\i (00:00:57) roam y 112
+\i (00:00:57) roam x 128
+\i (00:00:57) roam y 64
+\i (00:00:57) roam x 48
+\i (00:00:57) roam y 32
+\i (00:00:57) roam x 80
+\i (00:00:57) roam y 48
+\i (00:00:57) roam x 32
+\i (00:00:57) roam y 32
+\i (00:00:57) roam x -112
+\i (00:00:57) roam y -16
+\i (00:00:58) roam end
+\i (00:01:01) pick grid 5.753 -0.999
+\t (00:01:01) last pick:  5.800 -1.000
+\i (00:01:02) roam start
+\i (00:01:02) roam x -16
+\i (00:01:02) roam y -144
+\i (00:01:02) roam y -80
+\i (00:01:02) roam end
+\i (00:01:03) prepopup 1.537 5.328
+\i (00:01:04) done 
+\i (00:01:04) generaledit 
+\i (00:01:04) pick grid 2.336 5.646
+\t (00:01:04) last pick:  2.300 5.600
+\i (00:01:07) undo 
+\i (00:01:07) trapsize 78
+\i (00:01:07) generaledit 
+\i (00:01:12) shape add rect 
+\i (00:01:18) setwindow form.mini
+\i (00:01:18) FORM mini class PACKAGE GEOMETRY 
+\i (00:01:28) FORM mini subclass SILKSCREEN_TOP 
+\i (00:01:30) setwindow pcb
+\i (00:01:30) zoom in 1 
+\i (00:01:30) setwindow pcb
+\i (00:01:30) zoom in -5.816 4.684
+\i (00:01:30) trapsize 39
+\i (00:01:31) pick grid -5.792 4.723
+\t (00:01:31) last pick:  -5.800 4.700
+\i (00:01:33) roam start
+\i (00:01:33) roam x 256
+\i (00:01:33) roam y 112
+\i (00:01:33) roam x 256
+\i (00:01:33) roam y 144
+\i (00:01:33) roam x 96
+\i (00:01:33) roam y 80
+\i (00:01:33) roam x 32
+\i (00:01:33) roam y 16
+\i (00:01:33) roam end
+\i (00:01:35) pick grid 5.753 -1.015
+\t (00:01:35) last pick:  5.800 -1.000
+\i (00:01:36) roam start
+\i (00:01:36) roam x -176
+\i (00:01:36) roam y -176
+\i (00:01:36) roam x -32
+\i (00:01:36) roam y -48
+\i (00:01:36) roam end
+\i (00:01:37) zoom out 1 
+\i (00:01:37) setwindow pcb
+\i (00:01:37) zoom out 3.804 2.191
+\i (00:01:37) trapsize 78
+\i (00:01:38) pick grid 2.019 5.717
+\t (00:01:38) last pick:  2.000 5.700
+\i (00:01:38) prepopup 2.283 5.872
+\i (00:01:39) done 
+\i (00:01:39) generaledit 
+\i (00:01:40) grid toggle 
+\i (00:01:40) generaledit 
+\i (00:01:42) zoom out 1 
+\i (00:01:42) setwindow pcb
+\i (00:01:42) zoom out 2.516 6.586
+\i (00:01:42) trapsize 155
+\i (00:01:43) roam start
+\i (00:01:43) roam x -112
+\i (00:01:43) roam y -64
+\i (00:01:44) roam x -48
+\i (00:01:44) roam y -32
+\i (00:01:44) roam x -16
+\i (00:01:44) roam y -48
+\i (00:01:44) roam x -16
+\i (00:01:44) roam y -32
+\i (00:01:44) roam end
+\i (00:01:44) zoom out 1 
+\i (00:01:44) setwindow pcb
+\i (00:01:44) zoom out -0.412 13.596
+\i (00:01:44) trapsize 311
+\i (00:01:45) roam start
+\i (00:01:45) roam x 48
+\i (00:01:45) roam y -48
+\i (00:01:46) roam x 48
+\i (00:01:46) roam y -48
+\i (00:01:46) roam end
+\e (00:03:34) Command not found: xhilite
+\i (00:03:34) xname_flush 
+\i (00:03:34) done 
+\i (00:03:34) generaledit 
+\i (00:11:30) save_as 
+\i (00:11:53) fillin "C:\Users\user\Desktop\work\samples\avrusb500_r02\avrusb500_r02\Allegro\allegro\micro_usb.dra"
+\i (00:11:53) cd "C:\Users\user\Desktop\work\samples\avrusb500_r02\avrusb500_r02\Allegro\allegro"
+\t (00:11:54) Symbol 'micro_usb.psm' created.
+\i (00:11:54) generaledit 
+\i (00:11:54) drag_start grid -15.534 14.094
+\i (00:11:54) drag_stop 14.651 -5.656
+\i (00:11:55) pick grid 14.651 -5.656
+\t (00:11:55) last pick:  14.700 -5.700
+\i (00:12:00) save_as 
+\i (00:12:07) fillin "menu_cancel"
+\i (00:12:07) generaledit 
+\i (00:12:07) pick grid 5.769 15.088
+\t (00:12:07) last pick:  5.800 15.100
+\i (00:12:07) drag_start grid 11.359 15.585
+\i (00:12:07) drag_stop -27.708 -7.892
+\i (00:12:08) pick grid -25.596 -7.954
+\t (00:12:08) last pick:  -25.600 -8.000
+\i (00:12:09) exit 
+\t (00:12:09)     Journal end - Thu Jul 18 13:46:02 2019

@@ -1,0 +1,101 @@
+\t (00:00:25) pad_designer 16.6 S032 (v16-6-112CK) Windows 32
+\t (00:00:25)     Journal start - Thu Jul 18 11:53:20 2019
+\t (00:00:25)         Host=USER-PC User=user Pid=3348 CPUs=4
+\t (00:00:25) CmdLine= C:\Users\user\Downloads\vscode_orcad\cdns\cdns\tools\pcb\bin\pad_designer.exe
+\t (00:00:25) 
+\i (00:00:30) FORM padedit grid row soldermask_top 
+\i (00:00:34) FORM padedit parameters  
+\i (00:00:37) FORM padedit hole_size_y 0 
+\i (00:00:39) FORM padedit hole_size_x 0 
+\i (00:00:40) FORM padedit layers  
+\i (00:00:42) FORM padedit geometry Rectangle 
+\i (00:00:48) FORM padedit grid rpopup begin_layer 'Copy to all' 
+\i (00:00:49) setwindow form.padcopy
+\i (00:00:49) FORM padcopy pse_copy_soldermask YES 
+\i (00:00:49) FORM padcopy pse_copy_pastemask YES 
+\i (00:00:51) FORM padcopy pse_copy_done  
+\i (00:01:02) setwindow form.padedit
+\i (00:01:02) FORM padedit width 1.1 
+\i (00:01:08) FORM padedit height 1.72 
+\i (00:01:10) FORM padedit grid row begin_layer 
+\i (00:01:13) FORM padedit width 1.1 
+\i (00:01:16) FORM padedit height 1.72 
+\i (00:01:19) FORM padedit grid rpopup begin_layer 'Copy to all' 
+\i (00:01:20) setwindow form.padcopy
+\i (00:01:20) FORM padcopy pse_copy_soldermask YES 
+\i (00:01:20) FORM padcopy pse_copy_pastemask YES 
+\i (00:01:21) FORM padcopy pse_copy_done  
+\i (00:01:23) setwindow form.padedit
+\i (00:01:23) FORM padedit parameters  
+\i (00:01:28) FORM padedit layers  
+\i (00:01:30) FORM padedit grid row soldermask_bottom 
+\i (00:01:32) FORM padedit geometry Null 
+\i (00:01:33) FORM padedit grid row pastemask_bottom 
+\i (00:01:34) FORM padedit geometry Null 
+\i (00:01:34) FORM padedit parameters  
+\i (00:01:35) FORM padedit layers  
+\i (00:01:35) FORM padedit single YES 
+\i (00:01:39) FORM padedit parameters  
+\i (00:01:42) FORM padedit hole_type Circle Drill 
+\i (00:01:53) FORM padedit layers  
+\i (00:01:55) FORM padedit parameters  
+\i (00:02:01) FORM padedit hole_type Rectangle Slot 
+\i (00:02:02) FORM padedit layers  
+\i (00:02:04) FORM padedit parameters  
+\i (00:02:05) FORM padedit hole_type Oval Slot 
+\i (00:02:08) FORM padedit hole_type Circle Drill 
+\i (00:02:09) FORM padedit layers  
+\i (00:02:11) FORM padedit grid row begin_layer 
+\i (00:02:12) FORM padedit geometry Rectangle 
+\i (00:02:14) FORM padedit grid rpopup begin_layer Copy 
+\i (00:02:18) FORM padedit grid rpopup soldermask_top Paste 
+\i (00:02:19) FORM padedit grid rpopup pastemask_top Paste 
+\i (00:02:21) FORM padedit parameters  
+\i (00:02:22) FORM padedit layers  
+\i (00:02:22) FORM padedit crossbox YES 
+\i (00:02:23) FORM padedit stackbox YES 
+\i (00:02:26) pse_save_as 
+\i (00:02:27) fillin yes 
+\i (00:02:31) fillin "micro_usb_mount_1.pad"
+\i (00:02:39) FORM padedit grid row begin_layer 
+\i (00:02:52) FORM padedit width 0.04 
+\i (00:02:54) FORM padedit parameters  
+\i (00:02:56) FORM padedit layers  
+\i (00:03:19) FORM padedit parameters  
+\i (00:03:20) FORM padedit layers  
+\i (00:03:22) FORM padedit grid row soldermask_top 
+\i (00:03:25) FORM padedit width 0.04 
+\i (00:03:29) FORM padedit grid rpopup begin_layer Copy 
+\i (00:03:31) FORM padedit grid rpopup soldermask_top Paste 
+\i (00:03:32) FORM padedit grid rpopup pastemask_top Paste 
+\i (00:03:36) pse_save_as 
+\i (00:03:41) fillin "micro_usb_mount_2.pad"
+\i (00:20:20) pse_save_as 
+\i (00:20:30) fillin "menu_cancel"
+\i (00:20:31) pse_open 
+\i (00:20:40) fillin "micro_usb_mount.pad"
+\i (00:20:41) FORM padedit parameters  
+\i (00:20:57) FORM padedit layers  
+\i (00:21:22) FORM padedit grid row soldermask_bottom 
+\i (00:21:24) FORM padedit geometry Null 
+\i (00:21:47) FORM padedit grid row end_layer 
+\i (00:21:48) FORM padedit grid row begin_layer 
+\i (00:21:52) FORM padedit grid rpopup begin_layer 'Copy to all' 
+\i (00:21:53) setwindow form.padcopy
+\i (00:21:53) FORM padcopy pse_copy_soldermask YES 
+\i (00:21:53) FORM padcopy pse_copy_pastemask YES 
+\i (00:21:54) FORM padcopy pse_copy_done  
+\i (00:21:56) setwindow form.padedit
+\i (00:21:56) FORM padedit grid row soldermask_bottom 
+\i (00:22:00) FORM padedit geometry Null 
+\i (00:22:00) FORM padedit grid row pastemask_bottom 
+\i (00:22:01) FORM padedit geometry Null 
+\i (00:22:16) pse_save 
+\i (00:22:17) fillin yes 
+\i (00:22:21) pse_open 
+\i (00:22:24) fillin "micro_usb_mount_2.pad"
+\i (00:22:24) FORM padedit grid row begin_layer 
+\i (00:22:29) FORM padedit parameters  
+\i (00:22:31) FORM padedit layers  
+\i (00:22:40) pse_exit
+\t (00:22:40)     Journal end - Thu Jul 18 12:15:36 2019

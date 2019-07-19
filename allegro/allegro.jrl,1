@@ -1,0 +1,33 @@
+\t (00:00:05) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:00:05)     Journal start - Thu Jul 18 14:20:53 2019
+\t (00:00:05)         Host=USER-PC User=user Pid=1200 CPUs=4
+\t (00:00:05) CmdLine= C:\Users\user\Downloads\vscode_orcad\cdns\cdns\tools\pcb\bin\allegro.exe -orcad -mpssession user C:\USERS\USER\DESKTOP\WORK\AVRUSB500\allegro\AVRUSB500.brd
+\t (00:00:05) 
+   (00:00:05) ilinit Start.
+   (00:00:05) "C:/Users/user/Downloads/vscode_orcad/home/pcbenv"
+\t (00:00:07) Opening existing design...
+\d (00:00:07) Design opened: C:/USERS/USER/DESKTOP/WORK/AVRUSB500/allegro/AVRUSB500.brd
+\i (00:00:07) trapsize 10372
+\i (00:00:07) trapsize 10186
+\i (00:00:07) trapsize 10404
+\i (00:00:08) trapsize 9189
+\i (00:00:08) trapsize 13682
+\i (00:00:08) generaledit 
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out 42905.47 19236.32
+\i (00:00:12) trapsize 13682
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out 42905.47 19236.32
+\i (00:00:12) trapsize 13682
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out 42905.47 19236.32
+\i (00:00:12) trapsize 13682
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out 42905.47 19236.32
+\i (00:00:12) trapsize 13682
+\i (00:00:12) exit 
+\t (00:00:12)     Journal end - Thu Jul 18 14:21:00 2019

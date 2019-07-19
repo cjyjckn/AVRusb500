@@ -1,0 +1,37 @@
+\t (00:00:00) pad_designer 16.6 S032 (v16-6-112CK) Windows 32
+\t (00:00:00)     Journal start - Thu Jul 18 12:26:20 2019
+\t (00:00:00)         Host=USER-PC User=user Pid=5868 CPUs=4
+\t (00:00:00) CmdLine= C:\Users\user\Downloads\vscode_orcad\cdns\cdns\tools\pcb\bin\pad_designer.exe
+\t (00:00:00) 
+\i (00:00:02) setwindow form.padedit
+\i (00:00:02) pse_open 
+\i (00:00:04) fillin "micro_usb_mount_2.pad"
+\i (00:00:06) FORM padedit layers  
+\i (00:00:14) FORM padedit width 0.4 
+\i (00:00:14) pse_save 
+\i (00:00:15) fillin yes 
+\i (00:03:17) FORM padedit parameters  
+\i (00:03:17) FORM padedit layers  
+\i (00:03:18) FORM padedit crossbox YES 
+\i (00:03:21) pse_save 
+\i (00:03:22) fillin yes 
+\i (00:05:35) FORM padedit grid row begin_layer 
+\i (00:05:36) FORM padedit grid rpopup begin_layer 'Copy to all' 
+\i (00:05:39) FORM padedit grid rpopup begin_layer Copy 
+\i (00:05:41) FORM padedit grid rpopup soldermask_top Copy 
+\i (00:05:42) FORM padedit grid rpopup begin_layer Copy 
+\i (00:05:43) FORM padedit grid rpopup soldermask_top Paste 
+\i (00:05:46) FORM padedit grid rpopup pastemask_top Paste 
+\i (00:05:48) pse_save 
+\i (00:05:49) fillin yes 
+\i (00:06:10) FORM padedit grid row soldermask_top 
+\i (00:06:14) FORM padedit parameters  
+\i (00:06:18) FORM padedit layers  
+\i (00:06:21) pse_save_as 
+\i (00:06:23) fillin "menu_cancel"
+\i (00:06:29) pse_save 
+\i (00:06:31) fillin yes 
+\i (00:06:35) pse_save_as 
+\i (00:06:41) fillin "aaa.pad"
+\i (00:15:00) pse_exit
+\t (00:15:00)     Journal end - Thu Jul 18 12:41:21 2019
